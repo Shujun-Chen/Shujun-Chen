@@ -2,24 +2,6 @@
 <!-- Style: imitate Andrew6rant (ASCII art + neofetch two-column) -->
 <!-- All numbers below are real data fetched from api.github.com on 2026-07-10. -->
 
-<div align="center">
-
-```
-        /\_/\
-       ( o.o )
-        > ^ <
-       /|   |\
-      (_|   |_)
-        u
-```
-
-```
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        彩  虹  桥  招  待  所
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
-
-</div>
 
 <div align="center">
 
