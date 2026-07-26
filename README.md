@@ -67,7 +67,6 @@ Recent events:  22 (last 90d, mostly DoExercise daily commits)
 
 ### 🌉 Currently
 
-- 🛠️ **Building**: *彩虹桥招待所* — Pet Afterlife Simulator (Godot 4, Pixel Art)
 - 🤖 **Memory**: Open-sourced TDAI → four-layer LLM-extraction memory, integrated with Hermes Agent
 - 📜 **Research**: PaperSpine — full-pipeline academic writing helper (12 modules validated)
 - 🎯 **Career target**: Compliance × AI · MNC IT Coordinator · 国际远程
@@ -78,7 +77,6 @@ Recent events:  22 (last 90d, mostly DoExercise daily commits)
 - **2026-07-09**: TDAI L1 extraction switched to M3 (`https://api.minimaxi.com/v1`) — hybrid search now live
 - **2026-07-08**: agentic-stack `pre_tool_call` hook + REVIEW_QUEUE workflow integrated
 - **2026-06-03**: 海外远程求职方向扩展（LinkedIn Profile 编写 + Turing 注册协助）
-- **2026-05-27**: 彩虹桥招待所项目立项（Godot 4 + 像素风 + MiMo Code Lite prototype）
 
 ### 🛠️ Toolchain
 
@@ -96,7 +94,6 @@ Recent events:  22 (last 90d, mostly DoExercise daily commits)
 | Repo | Lang | Note |
 |---|---|---|
 | `DoExercise` | Java | 每日打卡 (active · cron-driven daily commits) |
-| `pet-manager` | Python | 宠物管理工具 (proto for 彩虹桥招待所) |
 | `travel-search` / `travel-search-cn` | HTML | 早期前端练手 |
 | `Rust-experiments` | Rust | (the only Rust repo) |
 | `academicpages.github.io` | — | Academic 静态页模板 |
